@@ -3,7 +3,7 @@
 - 🔭 Developing scalable mobile apps in Android and iOS in an agile fashion.
 - 🌱 Learning more about Optimizing ML models for edge devices. Started learning more about AI alignment and LLMs safety.
 - 👯 Deep diving in Dev-ops, data pipeline design and a bit of analytics too.
-- 💬 Ask me about ML/DL, coding, entrepreneurship and software development
+- 💬 Ask me about ML/DL, coding, entrepreneurship and software development.
  
 
 
