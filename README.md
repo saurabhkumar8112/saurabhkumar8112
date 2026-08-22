@@ -6,7 +6,7 @@ Right now I'm focused on **memory systems for AI agents**: how to persist contex
 
 ### Recent work
 
-**CTO, Adora Inc (Tokyo)** · Built [Kodomamo](https://kodomamo.com), a child safety platform. 200K+ users across NTT Docomo, KDDI, SoftBank. Fine-tuned BERT and ShieldGemma (LoRA) for content classification. Led 10-person team. Flutter app with 10+ custom native plugins. Event-driven infra on GCP/Kubernetes.
+**CTO, Adora Inc (Tokyo)** · Built [Kodomamo](https://kodomamo.com), a child safety platform. 300K+ users across NTT Docomo, KDDI, SoftBank. Fine-tuned BERT and ShieldGemma (LoRA) for content classification. Led 10-person team. Flutter app with 10+ custom native plugins. Event-driven infra on GCP/Kubernetes.
 
 **Co-founder, Smartbooks Inc** · Japanese audiobook app.
 
